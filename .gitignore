@@ -1,0 +1,14 @@
+Makefile
+*.hlt
+*.log
+*.nix
+*.lnk
+*.obj
+*.pdb
+*.bat
+*.exe
+halite.exe
+
+/hlt
+/replays
+/obj
